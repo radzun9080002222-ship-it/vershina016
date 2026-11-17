@@ -1,0 +1,26 @@
+{
+  "city": "Казань",
+  "cityForms": {
+    "name": "Казань",
+    "prepositional": "Казани",
+    "genitive": "Казани"
+  },
+  "region": "Республика Татарстан",
+  "domain": "vershina016.ru",
+  "pricingGroup": "ordinary",
+  "rates": [
+    150,
+    230,
+    370,
+    450,
+    280,
+    410,
+    500
+  ],
+  "minimumVisit": 6000,
+  "metrikaId": 114286465,
+  "webmasterVerification": "e938b0853ae9a1d7",
+  "heroPath": "images/hero-vershina016.webp",
+  "ogPath": "images/og-vershina016.jpg",
+  "heroLandmark": "Казанский кремль и мечеть Кул-Шариф"
+}
